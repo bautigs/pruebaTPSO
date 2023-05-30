@@ -33,3 +33,32 @@ make: Nothing to be done for 'all'.
 19:41:32 **** Build of configuration Debug for project kernel ****
 make all 
 make: Nothing to be done for 'all'.
+20:36:24 **** Incremental Build of configuration Debug for project consola ****
+make all 
+make: Nothing to be done for 'all'.
+20:43:20 **** Incremental Build of configuration Debug for project consola ****
+make all 
+make: Nothing to be done for 'all'.
+20:48:58 **** Incremental Build of configuration Debug for project consola ****
+make all 
+Building file: ../src/consola.c
+Invoking: GCC C Compiler
+gcc -I"/home/utnso/estudiandoAndo/shared/src" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/consola.d" -MT"src/consola.o" -o "src/consola.o" "../src/consola.c"
+Finished building: ../src/consola.c
+ 
+Building file: ../src/utils_consola.c
+Invoking: GCC C Compiler
+gcc -I"/home/utnso/estudiandoAndo/shared/src" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/utils_consola.d" -MT"src/utils_consola.o" -o "src/utils_consola.o" "../src/utils_consola.c"
+Finished building: ../src/utils_consola.c
+ 
+Building target: consola
+Invoking: GCC C Linker
+gcc -L"/home/utnso/estudiandoAndo/shared/Debug" -o "consola" ./src/consola.o ./src/utils_consola.o    -lcommons -lshared
+Finished building target: consola
+ 
+20:54:46 **** Incremental Build of configuration Debug for project consola ****
+make all 
+make: Nothing to be done for 'all'.
+20:57:10 **** Build of configuration Debug for project memoria ****
+make all 
+make: Nothing to be done for 'all'.

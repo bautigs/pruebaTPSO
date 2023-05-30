@@ -15,3 +15,23 @@
 [ERROR] 19:40:56:698 consola.log/(4124:4124): Error al conectar (a KERNEL)
 
 [INFO] 19:40:56:699 consola.log/(4124:4124): Conexion exitosa con el Kernel.
+[INFO] 20:36:28:541 consola.log/(4350:4350): Hola! Se inicializo el modulo cliente Consola.
+[INFO] 20:36:28:546 consola.log/(4350:4350): Se ha leido el archivo de config con exito, con los valores PUERTO: 9120 e IP: 127.0.0.1.
+[INFO] 20:36:28:551 consola.log/(4350:4350): Cliente conectado en 127.0.0.1:9120 (a KERNEL)
+
+[INFO] 20:36:28:553 consola.log/(4350:4350): Conexion exitosa con el Kernel.
+[INFO] 20:43:23:232 consola.log/(4380:4380): Hola! Se inicializo el modulo cliente Consola.
+[INFO] 20:43:23:239 consola.log/(4380:4380): Se ha leido el archivo de config con exito, con los valores PUERTO: 9120 e IP: 127.0.0.1.
+[INFO] 20:43:23:242 consola.log/(4380:4380): Cliente conectado en 127.0.0.1:9120 (a KERNEL)
+
+[INFO] 20:43:23:242 consola.log/(4380:4380): Conexion exitosa con el Kernel.
+[INFO] 20:49:03:587 consola.log/(4418:4418): Hola! Se inicializo el modulo cliente Consola.
+[INFO] 20:49:03:602 consola.log/(4418:4418): Se ha leido el archivo de config con exito, con los valores PUERTO: 9120 e IP: 127.0.0.1.
+[ERROR] 20:49:03:606 consola.log/(4418:4418): Error al conectar (a KERNEL)
+
+[INFO] 20:49:03:606 consola.log/(4418:4418): Conexion exitosa con el Kernel.
+[INFO] 20:55:00:714 consola.log/(4559:4559): Hola! Se inicializo el modulo cliente Consola.
+[INFO] 20:55:00:734 consola.log/(4559:4559): Se ha leido el archivo de config con exito, con los valores PUERTO: 9120 e IP: 127.0.0.1.
+[ERROR] 20:55:00:736 consola.log/(4559:4559): Error al conectar (a KERNEL)
+
+[INFO] 20:55:00:736 consola.log/(4559:4559): Conexion exitosa con el Kernel.

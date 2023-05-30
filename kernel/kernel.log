@@ -4,3 +4,14 @@
 [INFO] 19:41:35:333 kernel.log/(4146:4146): Escuchando en 127.0.0.1:9120 (KERNEL)
 
 [INFO] 19:41:35:340 kernel.log/(4146:4146): Kernel inicializado, esperando a recibir a la consola en el PUERTO 9120.
+[INFO] 20:36:28:549 kernel.log/(4146:4146): Cliente conectado (a Kernel)
+
+[INFO] 20:43:20:028 kernel.log/(4146:4356): Se terminaron de leer las instrucciones recibidas
+[ERROR] 20:43:20:028 kernel.log/(4146:4356): Antes de armar el PCB
+[INFO] 20:43:20:028 kernel.log/(4146:4356): 1000
+[INFO] 20:43:20:028 kernel.log/(4146:4356): 0
+[ERROR] 20:43:20:028 kernel.log/(4146:4356): Después de armar el PCB
+[ERROR] 20:43:20:028 kernel.log/(4146:4356): Después de agregar el PCB a cola NEW
+[WARNING] 20:43:20:028 kernel.log/(4146:4356): El cliente se desconecto de Kernel server
+[INFO] 20:43:23:241 kernel.log/(4146:4146): Cliente conectado (a Kernel)
+

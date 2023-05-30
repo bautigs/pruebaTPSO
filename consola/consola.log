@@ -1,0 +1,17 @@
+[ERROR] 03:04:24:942 consola.log/(4677:4677): Uso: consola path tamanio
+[ERROR] 12:50:07:859 consola.log/(5678:5678): Uso: consola path tamanio
+[INFO] 12:51:35:857 consola.log/(5708:5708): Hola! Se inicializo el modulo cliente Consola.
+[INFO] 12:51:35:861 consola.log/(5708:5708): Se ha leido el archivo de config con exito, con los valores PUERTO: 9120 e IP: 127.0.0.1.
+[ERROR] 12:51:35:864 consola.log/(5708:5708): Error al conectar (a KERNEL)
+
+[INFO] 12:51:35:864 consola.log/(5708:5708): Conexion exitosa con el Kernel.
+[INFO] 19:39:54:625 consola.log/(4112:4112): Hola! Se inicializo el modulo cliente Consola.
+[INFO] 19:39:54:671 consola.log/(4112:4112): Se ha leido el archivo de config con exito, con los valores PUERTO: 9120 e IP: 127.0.0.1.
+[ERROR] 19:39:54:671 consola.log/(4112:4112): Error al conectar (a KERNEL)
+
+[INFO] 19:39:54:671 consola.log/(4112:4112): Conexion exitosa con el Kernel.
+[INFO] 19:40:56:688 consola.log/(4124:4124): Hola! Se inicializo el modulo cliente Consola.
+[INFO] 19:40:56:697 consola.log/(4124:4124): Se ha leido el archivo de config con exito, con los valores PUERTO: 9120 e IP: 127.0.0.1.
+[ERROR] 19:40:56:698 consola.log/(4124:4124): Error al conectar (a KERNEL)
+
+[INFO] 19:40:56:699 consola.log/(4124:4124): Conexion exitosa con el Kernel.

@@ -1,0 +1,6 @@
+19:40:53 **** Incremental Build of configuration Debug for project consola ****
+make all 
+make: Nothing to be done for 'all'.
+
+19:40:55 Build Finished. 0 errors, 0 warnings. (took 2s.166ms)
+

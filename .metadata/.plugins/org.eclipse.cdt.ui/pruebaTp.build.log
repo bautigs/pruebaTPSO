@@ -1,0 +1,20 @@
+02:35:55 **** Build of configuration Debug for project pruebaTp ****
+make all 
+Building file: ../src/consola/consola.c
+Invoking: GCC C Compiler
+gcc -I"/home/utnso/estudiandoAndo/shared2/src" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/consola/consola.d" -MT"src/consola/consola.o" -o "src/consola/consola.o" "../src/consola/consola.c"
+Finished building: ../src/consola/consola.c
+ 
+Building file: ../src/consola/utils_consola.c
+Invoking: GCC C Compiler
+gcc -I"/home/utnso/estudiandoAndo/shared2/src" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/consola/utils_consola.d" -MT"src/consola/utils_consola.o" -o "src/consola/utils_consola.o" "../src/consola/utils_consola.c"
+Finished building: ../src/consola/utils_consola.c
+ 
+Building target: pruebaTp
+Invoking: GCC C Linker
+gcc -L"/home/utnso/estudiandoAndo/shared2/Debug" -o "pruebaTp" ./src/consola/consola.o ./src/consola/utils_consola.o    -lcommons -lshared2
+Finished building target: pruebaTp
+ 
+
+02:35:57 Build Finished. 0 errors, 0 warnings. (took 1s.953ms)
+

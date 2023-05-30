@@ -1,0 +1,6 @@
+13:26:05 **** Incremental Build of configuration Debug for project memoria ****
+make all 
+make: Nothing to be done for 'all'.
+
+13:26:07 Build Finished. 0 errors, 0 warnings. (took 1s.666ms)
+
